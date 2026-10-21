@@ -1,6 +1,0 @@
-matplotlib
-seaborn
-streamlit
-gradio
-python-dotenv
-openai
