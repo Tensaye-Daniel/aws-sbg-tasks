@@ -36,11 +36,16 @@ final classified dataset, then writes `data/cleaned_students.csv`.
 
 **Google Colab**
 
-Open the notebook in Colab: `student_data_processing.ipynb`
+Open the notebook in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive1uRvsuRbjnZXanE_Y0LhE3-SuwIyCfUUJ?usp=sharing)
 
 The notebook loads `data/students.csv` from the local `data/` folder, falls back
 to the raw GitHub URL of this repository, and finally to an embedded copy of the
 data, so it runs end to end either way.
+
+The committed `.ipynb` already contains the executed code, outputs and written
+explanations, so it can be reviewed on GitHub without running anything.
 
 **Notes on the cleaning decisions**
 
