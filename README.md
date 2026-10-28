@@ -49,6 +49,7 @@ aws-sbg-tasks/
 | --- | --- | --- | --- |
 | 01 | Student Data Processing (cleaning, statistics, classification) | [`.py`](week-01/student_data_processing.py) | [`.ipynb`](week-01/student_data_processing.ipynb) |
 | 02 | _Coming up_ | | |
+| 03 | _Coming up_ | | |
 
 ## Technologies
 
