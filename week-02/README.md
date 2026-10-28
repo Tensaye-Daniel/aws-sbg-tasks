@@ -3,6 +3,8 @@
 **Objective**
 
 Build a mini semantic search system that loads FAQ data from CSV/JSON using pandas, cleans and splits the text into chunks, converts text into embeddings, stores them in ChromaDB, and performs semantic search to display the top 3 most relevant matches.
+# Google colab link 
+https://colab.research.google.com/drive/16WtUfPZwJa6r-mbQk_mXeGHofpNzEmrI#scrollTo=cd25ff6d
 
 **What the task covers**
 
@@ -19,7 +21,8 @@ Build a mini semantic search system that loads FAQ data from CSV/JSON using pand
 - semantic_search_system.py - Standalone script to build the index and run sample search.
 - semantic_search_system.ipynb - Jupyter/Colab notebook with outputs and explanations.
 - data/faqs.csv, data/faqs.json - Sample FAQ datasets.
-- equirements.txt - Packages needed to run.
+- 
+equirements.txt - Packages needed to run.
 
 **How to run**
 
