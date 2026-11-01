@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/16WtUfPZwJa6r-mbQk_mXeGHofpNzEmrI#scroll
 - semantic_search_system.py - Standalone script to build the index and run sample search.
 - semantic_search_system.ipynb - Jupyter/Colab notebook with outputs and explanations.
 - data/faqs.csv, data/faqs.json - Sample FAQ datasets.
-- 
+  
 equirements.txt - Packages needed to run.
 
 **How to run**
