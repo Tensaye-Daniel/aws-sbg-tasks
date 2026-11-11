@@ -38,9 +38,17 @@ aws-sbg-tasks/
 │       └── cleaned_students.csv
 ├── week-02/
 │   ├── README.md
-│   ├── <task_name>.py
-│   └── <task_name>.ipynb
-└── ...
+│   ├── semantic_search_system.py
+│   ├── Mini_Semantic_Search_System.ipynb
+│   ├── requirements.txt
+│   └── data/
+│       ├── faqs.csv
+│       └── faqs.json
+└── week-03/
+    ├── README.md
+    ├── spam_filter.py
+    ├── spam_filter.ipynb
+    └── requirements.txt
 ```
 
 ## Weekly Tasks
@@ -48,8 +56,8 @@ aws-sbg-tasks/
 | Week | Topic | Code | Notebook |
 | --- | --- | --- | --- |
 | 01 | Student Data Processing (cleaning, statistics, classification) | [`.py`](week-01/student_data_processing.py) | [`.ipynb`](week-01/student_data_processing.ipynb) |
-| 02 | _Coming up_ | | |
-| 03 | _Coming up_ | | |
+| 02 | Mini Semantic Search System (embeddings, ChromaDB) | [`.py`](week-02/semantic_search_system.py) | [`.ipynb`](week-02/Mini_Semantic_Search_System.ipynb) |
+| 03 | Spam Email / Message Detector (TF-IDF + Naive Bayes, adversarial testing) | [`.py`](week-03/spam_filter.py) | [`.ipynb`](week-03/spam_filter.ipynb) |
 
 ## Technologies
 

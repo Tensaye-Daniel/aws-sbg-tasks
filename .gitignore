@@ -53,3 +53,7 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Datasets downloaded by notebooks at runtime (not uploaded to the repo)
+smsspamcollection.zip
+sms_data/
